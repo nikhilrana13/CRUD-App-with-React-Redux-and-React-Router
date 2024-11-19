@@ -17,3 +17,5 @@ React: For building the user interface.
 Redux: To manage the application's state and handle actions like adding, updating, and deleting users.
 
 React Router: For handling navigation between different pages, such as viewing the user list and editing user details.
+
+Tailwind CSS: For fast, utility-first CSS styling that helps create a clean and responsive layout.
