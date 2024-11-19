@@ -19,3 +19,6 @@ Redux: To manage the application's state and handle actions like adding, updatin
 React Router: For handling navigation between different pages, such as viewing the user list and editing user details.
 
 Tailwind CSS: For fast, utility-first CSS styling that helps create a clean and responsive layout.
+
+
+live website : https://crud-app-with-react-redux-and-react-router-logesxsug.vercel.app/
