@@ -1,8 +1,19 @@
-# React + Vite
+This is a simple yet powerful CRUD (Create, Read, Update, Delete) application built using React, Redux, and React Router. The project allows users to manage a list of users with features to add, edit, view, and delete user details.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+Create User: Add a new user to the system with name, email, and password fields.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Read User: View the list of users with their details (name, email, and password).
+
+Update User: Edit an existing user's details (name, email, and password).
+
+Delete User: Remove a user from the list.
+
+Tech Stack:
+
+React: For building the user interface.
+
+Redux: To manage the application's state and handle actions like adding, updating, and deleting users.
+
+React Router: For handling navigation between different pages, such as viewing the user list and editing user details.
